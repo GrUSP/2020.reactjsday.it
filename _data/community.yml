@@ -104,3 +104,8 @@ list:
     name: devRomagna
     image: devromagna.svg
     site: https://devromagna.org/
+
+  -
+    name: Bologna Front End
+    image: bologna-front-end.svg
+    site: http://tinyletter.com/bolognafrontend
